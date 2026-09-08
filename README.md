@@ -1,5 +1,7 @@
-# TDD Exercise
+# TDD Exercise!
 This repository is part of the problem set and class activity for Intro to Tests in Unit 1.
+
+
 
 ## Learning Goals 
 - Practice identifying test cases
